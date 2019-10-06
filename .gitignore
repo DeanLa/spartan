@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# PyCharm
+.DS_Store
+.idea
+
+# Run Files
+mock_*
